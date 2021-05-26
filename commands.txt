@@ -6,3 +6,6 @@ git commit -m "primer commit, inicio del repo"
 git remote add origin https://github.com/x8cl/basic_repo.git
 git branch -M master
 git push -u origin master
+git add .
+git commit -m "agregado commands.txt"
+git push -u origin master
