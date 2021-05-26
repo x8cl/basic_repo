@@ -1,0 +1,8 @@
+mkdir basic_repo
+cd basic_repo
+git init
+git add .
+git commit -m "primer commit, inicio del repo"
+git remote add origin https://github.com/x8cl/basic_repo.git
+git branch -M master
+git push -u origin master
